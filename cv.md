@@ -18,7 +18,7 @@ An optimistic person looking for new experiences and senses. I’m interested in
 ### **Code Examples**
 ``` javascript
 function finalGrade (exam, projects) {
-  return (exam > 90 || projects > 10 ? 100 : 
+  return (exam > 90 || projects > 10 ? 100 :
              (exam > 75 && projects >= 5 ? 90 :
                 (exam > 50 && projects >= 2 ? 75 : 0)));
 };
