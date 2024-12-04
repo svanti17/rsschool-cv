@@ -1,1 +1,1 @@
-# rsschool-cv
+https://svanti17.github.io/rsschool-cv/cv
